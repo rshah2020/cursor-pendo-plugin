@@ -1,0 +1,12 @@
+{
+  "name": "setup-agent-analytics",
+  "displayName": "Setup Agent Analytics",
+  "version": "1.0.0",
+  "description": "Detect AI agents in your codebase and instrument them with Pendo agent analytics",
+  "author": {
+    "name": "Pendo",
+    "email": "plugins@pendo.io"
+  },
+  "license": "MIT",
+  "keywords": ["pendo", "analytics", "ai-agents", "instrumentation"]
+}

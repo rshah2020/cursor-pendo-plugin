@@ -14,6 +14,11 @@
       "name": "pendo-analytics",
       "source": "./plugins/pendo-analytics",
       "description": "Bring Pendo analytics into Cursor with skills for account health, feature adoption, session replays, and feedback analysis"
+    },
+    {
+      "name": "setup-agent-analytics",
+      "source": "./plugins/setup-agent-analytics",
+      "description": "Detect AI agents in your codebase and instrument them with Pendo agent analytics"
     }
   ]
 }
